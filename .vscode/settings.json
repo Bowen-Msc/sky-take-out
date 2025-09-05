@@ -13,5 +13,6 @@
             "username": "root",
             "database": "sky_take_out"
         }
-    ]
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
 }
